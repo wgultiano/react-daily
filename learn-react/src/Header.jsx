@@ -1,7 +1,7 @@
 
 function Header() {
 
-    return(
+    return (
         <header>
             <h1>My website</h1>
             <nav>

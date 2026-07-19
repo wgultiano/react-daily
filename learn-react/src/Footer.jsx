@@ -1,6 +1,7 @@
 
 function Footer() {
-    return(
+    
+    return (
         <footer>
             <p>&copy; {new Date().getFullYear()} React Daily. All rights reserved.</p>
         </footer>
