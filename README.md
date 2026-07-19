@@ -8,4 +8,5 @@ This repository documents my journey of learning React.
 - Improve front-end development skills
 
 ## Progress:
-Day 1 - Creating a simple page with Header and Footer components. 
+Day 1 - Creating a simple page with Header and Footer components.
+Day 2 
