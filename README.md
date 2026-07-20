@@ -10,4 +10,4 @@ This repository documents my journey of learning React.
 ## Progress:
 - Day 1 - Creating a simple page with Header and Footer components.
 - Day 2 - Creating a card—profile information, and add some style.
-- Day 3
+- Day 3 - Learning different styling methods: external, modules, and inline. 
